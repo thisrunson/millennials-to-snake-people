@@ -8,10 +8,7 @@ Need convincing? Here's some reading:
 ## Installation
 
 1. Add the extension to your browser of choice: 
-  - [Chrome](https://chrome.google.com/webstore/detail/millennials-to-snake-peop/jhkibealmjkbkafogihpeidfcgnigmlf)
-  - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/millennials-to-snake-people/)
-  - [Safari](https://github.com/a2/millennials-to-snake-people/releases)
-- [Free your mind](https://www.google.com/search?q=Millennials)
+[Moar tasty linlks]
 
 
 ## Thanks
