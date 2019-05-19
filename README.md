@@ -1,7 +1,9 @@
-# Polls to Old, White People with Landline Phones
+# Polls to Old White People with Landline Phones
 
-Polls Help remind yourself of the fallibility of polling 
+Do you think polls play too big a role in American politics today? (If not, you should!) Install this extension to remind yourself of the fallibility of polling as you browse the web.
 
+Need convincing? Here's some reading:
+[Tasty Links]
 
 ## Installation
 
