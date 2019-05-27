@@ -19,13 +19,13 @@ Need more convincing? Here's some reading:
 
 Watch the headlines of <i>The Atlantic</i> change in the month leading up to the 2018 US midterm elections, as polling predictions turned to reality:
 
-Atlantic, Oct 11, 2018:
+Oct 11, 2018:
 [![Atlantic, Oct 11, 2018: “New PRRI/The Atlantic Poll: Only One in Three Young People Say They’re Certain to Vote in Midterms"](https://i.imgur.com/tl1p1XJ.png)](https://www.theatlantic.com/press-releases/archive/2018/10/new-prri-atlantic-poll-only-one-three-young-people-are-certain-vote-midterms/572761/)
 
-Atlantic, Oct 28, 2018:
+Oct 28, 2018:
 [![Atlantic, Oct 28, 2018: "Young People Might Actually Turn Out for the Midterms"](https://i.imgur.com/tuxzkOZ.png)](https://www.theatlantic.com/politics/archive/2018/10/new-poll-suggests-historic-midterm-youth-turnout/574141/)
 
-Atlantic, Nov 6. 2018:
+Nov 6, 2018:
 [![Atlantic, Nov 6. 2018: "Early Signs of a Youth Wave"](https://i.imgur.com/hHC5k1b.png)](https://www.theatlantic.com/politics/archive/2018/11/youth-turnout-midterm-2018/575092/)
 
 
@@ -45,7 +45,7 @@ Thanks to [ericwbailey](https://github.com/ericwbailey) for the inspiration for 
 
 Don't worry! The extension can be re-enabled after ~~it destroys your blog post~~ it is disabled.
 
-### Chrome
+#### Chrome
 
 `Preferences` > `Extensions` > Uncheck `Enable`
 
@@ -61,10 +61,10 @@ Don't worry! The extension can be re-enabled after ~~it destroys your blog post~
 ### FiveThirtyEight
 [![FiveThirtyEight](https://i.imgur.com/6zhqeZP.png)](https://projects.fivethirtyeight.com/pollster-ratings/)
 
-###Google Search Results
+### Google Search Results
 [![Google Search Results](https://i.imgur.com/WreX3RP.png)](https://www.google.com/search?q=polling+rasmussen&oq=polling+rasmussen&aqs=chrome..69i57j0l5.4528j0j4&sourceid=chrome&ie=UTF-8)
 
-###And of course, BuzzFeed "Polls"
+### And of course, BuzzFeed "Polls"
 [![BuzzFeed](https://i.imgur.com/YfPm4V6.png)](https://www.buzzfeed.com/tag/friends-poll)
 
 
