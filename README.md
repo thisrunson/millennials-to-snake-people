@@ -17,9 +17,15 @@ Need more convincing? Here's some reading:
 - [‘Complete shock’: Australia’s prime minister holds onto power, defying election predictions](https://www.washingtonpost.com/world/asia_pacific/australia-holds-elections-with-labor-party-looking-to-regain-power/2019/05/17/f661d2ea-7705-11e9-a7bf-c8a43b84ee31_story.html?utm_term=.2c3477d8b9ea)
 
 Watch the headlines of <i>The Atlantic</i> change in the month leading up to the 2018 US midterm elections, as polling predictions turned to reality:
-	- [![Atlantic, Oct 11, 2018: “New PRRI/The Atlantic Poll: Only One in Three Young People Say They’re Certain to Vote in Midterms"](https://i.imgur.com/tl1p1XJ.png)](https://www.theatlantic.com/press-releases/archive/2018/10/new-prri-atlantic-poll-only-one-three-young-people-are-certain-vote-midterms/572761/)
-	- [![Atlantic, Oct 28, 2018: "Young People Might Actually Turn Out for the Midterms"](https://i.imgur.com/tuxzkOZ.png)](https://www.theatlantic.com/politics/archive/2018/10/new-poll-suggests-historic-midterm-youth-turnout/574141/)
-	- [![Atlantic, Nov 6. 2018: "Early Signs of a Youth Wave"](https://i.imgur.com/hHC5k1b.png)](https://www.theatlantic.com/politics/archive/2018/11/youth-turnout-midterm-2018/575092/)
+
+Atlantic, Oct 11, 2018:
+[![Atlantic, Oct 11, 2018: “New PRRI/The Atlantic Poll: Only One in Three Young People Say They’re Certain to Vote in Midterms"](https://i.imgur.com/tl1p1XJ.png)](https://www.theatlantic.com/press-releases/archive/2018/10/new-prri-atlantic-poll-only-one-three-young-people-are-certain-vote-midterms/572761/)
+
+Atlantic, Oct 28, 2018:
+[![Atlantic, Oct 28, 2018: "Young People Might Actually Turn Out for the Midterms"](https://i.imgur.com/tuxzkOZ.png)](https://www.theatlantic.com/politics/archive/2018/10/new-poll-suggests-historic-midterm-youth-turnout/574141/)
+
+Atlantic, Nov 6. 2018:
+[![Atlantic, Nov 6. 2018: "Early Signs of a Youth Wave"](https://i.imgur.com/hHC5k1b.png)](https://www.theatlantic.com/politics/archive/2018/11/youth-turnout-midterm-2018/575092/)
 
 
 
