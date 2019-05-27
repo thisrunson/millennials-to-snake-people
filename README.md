@@ -5,16 +5,17 @@ Think polls play too big a role in American politics today? If not, you should!
 Install this extension to remind yourself of the fallibility of polling as you browse the web.
 
 As Jill Lepore writes in her <i>The New Yorker</i> article, "Politics and the New Machine":
+
 <i>“Using methods designed for knocking on doors to measure public opinion on the Internet is like trying to shoe a horse with your operating system. Internet pollsters can’t call you; they have to wait for you to come to them. Not everyone uses the Internet, and, at the moment, the people who do, and who complete online surveys, are younger and leftier than people who don’t, while people who have landlines, and who answer the phone, are older and more conservative than people who don’t. Some pollsters, both here and around the world, rely on a combination of telephone and Internet polling; the trick is to figure out just the right mix. So far, it isn’t working. In Israel this March, polls failed to predict Benjamin Netanyahu’s victory. In May in the U.K., every major national poll failed to forecast the Conservative Party’s win.
 
 “It’s a little crazy to me that people are still using the same tools that were used in the nineteen-thirties,” Dan Wagner told me when I asked him about the future of polling. Wagner was the chief analytics officer on the 2012 Obama campaign and is the C.E.O. of Civis Analytics, a data-science technology and advisory firm.""</i>
 
 Need more convincing? Here's some reading:
-- [Jill Lepore's Politics and the New Machine](https://www.newyorker.com/magazine/2015/11/16/politics-and-the-new-machine)
-- [Why 2016 Polls Missed Their Mark](https://www.pewresearch.org/fact-tank/2016/11/09/why-2016-election-polls-missed-their-mark/)
-- [Here’s Why the Majority of Brexit Polls Were Wrong](https://www.cnbc.com/2016/07/04/why-the-majority-of-brexit-polls-were-wrong.html)
+- [Jill Lepore's <i>Politics and the New Machine</i>](https://www.newyorker.com/magazine/2015/11/16/politics-and-the-new-machine)
+- [<i>Why 2016 Polls Missed Their Mark</i>](https://www.pewresearch.org/fact-tank/2016/11/09/why-2016-election-polls-missed-their-mark/)
+- [<i>Here’s Why the Majority of Brexit Polls Were Wrong</i>](https://www.cnbc.com/2016/07/04/why-the-majority-of-brexit-polls-were-wrong.html)
 - Report of the Inquiry into the 2015 British general election opinion polls [[PDF](http://eprints.ncrm.ac.uk/3789/1/Report_final_revised.pdf)]
-- [‘Complete shock’: Australia’s prime minister holds onto power, defying election predictions](https://www.washingtonpost.com/world/asia_pacific/australia-holds-elections-with-labor-party-looking-to-regain-power/2019/05/17/f661d2ea-7705-11e9-a7bf-c8a43b84ee31_story.html?utm_term=.2c3477d8b9ea)
+- [<i>‘Complete shock’: Australia’s prime minister holds onto power, defying election predictions</i>](https://www.washingtonpost.com/world/asia_pacific/australia-holds-elections-with-labor-party-looking-to-regain-power/2019/05/17/f661d2ea-7705-11e9-a7bf-c8a43b84ee31_story.html?utm_term=.2c3477d8b9ea)
 
 Watch the headlines of <i>The Atlantic</i> change in the month leading up to the 2018 US midterm elections, as polling predictions turned to reality:
 
