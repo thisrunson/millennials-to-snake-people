@@ -21,29 +21,31 @@ function handleText(textNode) {
   textNode.nodeValue = replaceText(textNode.nodeValue);
 }
 
+//TODOs
+// - Make "Calls to old white people with landline phones" show up more -- doesn't make sense w/out it
+// - More special cases / easter eggs
+// - Test on corpus again
+
 function replaceText(v)
 {
     //Clean up a couple instances to reduce variability on matches
-    v = v.replace(/\bOpinion poll(s)?\b/g, "Poll$1");
-    v = v.replace(/\bopinion poll(s)?\b/g, "poll$1");
+    v = v.replace(/\bOpinion poll(s|ing)?\b/g, "Poll$1");
+    v = v.replace(/\bopinion poll(s|ing)?\b/g, "poll$1");
 
-    //Polls w/ and w/out caps, because I don't know how to get that fancy w/ regexes
-    v = v.replace(/\bPoll(s)?([.,\/#!$%\^&\*;:{}=\-_`~()]\s)\b/g, "Phone calls with unmelanated fogeys$2");
-    v = v.replace(/\bpoll(s)?([.,\/#!$%\^&\*;:{}=\-_`~()]\s)?\b/g, "survey$1 of unmelanated fogeys$2");
+    //Polls and Surveys w/ and w/out caps, because I don't know how to get that fancy w/ regexes
+    v = v.replace(/\b(Survey|Poll)(s)??\b/g, "Chat$2 with Old, White People with Landline Phones");
+    v = v.replace(/\b(survey|poll)(s)?([\w])?\b/g, "survey$2 of unmelanated fogeys$3");
+
+    v = v.replace(/\b(Survey|Poll)(ing)\b/g, "Chit-Chatt$2 with the Landlined Gentry");
+    v = v.replace(/\b(survey|poll)(ing)\b/g, "chit-chatt$2 with the landlined gentry");
  
     //Match various instances of "polls," "polling," "surveying," etc.
-    v = v.replace(/\b(the)? poll(s|ing)?\b/g, " chatty-chat$2 with the landlined gentry");
-    v = v.replace(/\b(the)? polling?\b/g, " sliding into some old white's landline DMs ;) ");
-    v = v.replace(/\b(A|The|the) poll(s)?\b/g, "$1 opinion of old white people with landline phones");
-    v = v.replace(/\b(T|t)(he)? pollster(ss)\b/g, "$1hose who adore calling old white people with landline phones");
-    v = v.replace(/\b(Survey|Poll)(s|ing)?\b/g, "Chatty-chat$2 with the landlined gentry");
-    v = v.replace(/\b(Survey|Poll) (numbers|results|scores)?\b/g, "Calls to old white people with landline phones");
+    v = v.replace(/\b(the)? (polling|survey(ing?))\b/g, " sliding into landline DMs");
+    v = v.replace(/\bpolling result(s)?\b/g, " result$1 of sliding into some old white landline DMs");
 
     //Don't forget pollsters! They need <3 too
-    v = v.replace(/\bPollster(s)?\b/g, "People who slide into landline DMs");
-    v = v.replace(/\bpollster(s)?\b/g, "people who slide into landline DMs");
-    v = v.replace(/\b(S|s)urvey research\b/g, "$1lidin' into landline 'DMs', as it were");   
-
+    v = v.replace(/\b(P|p)ollster(s)?\b/g, "$1eople who slide into landline DMs");
+    v = v.replace(/\b(S|s)urvey (research|data|results)\b/g, "$1lidin' into landline 'DMs', as it were");   
 
     return v;
 }
