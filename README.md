@@ -61,6 +61,13 @@ Don't worry! The extension can be re-enabled after ~~it destroys your blog post~
 ### FiveThirtyEight
 [![FiveThirtyEight](https://i.imgur.com/6zhqeZP.png)](https://projects.fivethirtyeight.com/pollster-ratings/)
 
+
+### More FiveThirtyEight
+[![FiveThirtyEight](https://i.imgur.com/YJuI7rV.png)](https://projects.fivethirtyeight.com/polls/)
+
+### Vox
+[![Vox](https://i.imgur.com/nE7Wv1a.png)](https://www.vox.com/policy-and-politics/2019/3/28/18285455/2020-presidential-election-polls-joe-biden-democratic-primary-candidates)
+
 ### Google Search Results
 [![Google Search Results](https://i.imgur.com/WreX3RP.png)](https://www.google.com/search?q=polling+rasmussen&oq=polling+rasmussen&aqs=chrome..69i57j0l5.4528j0j4&sourceid=chrome&ie=UTF-8)
 
